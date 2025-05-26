@@ -1,0 +1,9 @@
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=808
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.smtp.user=rcrishinephil@gmail.com
+mail.smtp.password=ywwe rocw utzk zicy
+mail.smtp.connectiontimeout=30000
+mail.smtp.timeout=30000
+mail.debug=true
